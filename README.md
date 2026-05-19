@@ -7,9 +7,9 @@ and 3 sales channels. Covers data cleaning, business analysis, revenue
 prediction (R²=0.9986), and interactive Power BI dashboard
 
 ## Tools used
-- SQL (PostgreSQL/SQLite) — data cleaning & analysis
-- Python (pandas, scikit-learn) — machine learning
-- Power BI — interactive dashboard
+- SQL (PostgreSQL/SQLite) for data cleaning & analysis
+- Python (pandas, scikit-learn) for machine learning
+- Power BI for interactive dashboard
 
 ## Key findings
 - Skechers leads revenue ($269K); Nike trails at $193K
